@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 47d13bb653d41d942a68883aba6cd4b5, type: 3}
+    - {fileID: 2800000, guid: 31bd9ff1d2da5834d96ad5704b811a09, type: 3}
+    - {fileID: 2800000, guid: e2caca1dd5cca9146acc18b88944696b, type: 3}
+    - {fileID: 2800000, guid: 2701c16590625ae46a0dcd0f07d441d2, type: 3}
+    - {fileID: 2800000, guid: 8eedcbf82c7684a4f83b0df27b5866b0, type: 3}
+    - {fileID: 2800000, guid: 350552857a39f754f830fb041696a2cf, type: 3}
+    - {fileID: 2800000, guid: 7cd269b39a21777428f78325e3fafd96, type: 3}
+    - {fileID: 2800000, guid: eedf1f5abc65918428de43d54484d436, type: 3}
+    - {fileID: 2800000, guid: fea3b0948af97754382f7b359affd009, type: 3}
+    - {fileID: 2800000, guid: cc481871f98040742843779c0b9e10ce, type: 3}
+    - {fileID: 2800000, guid: c791c2d1359550948b2c1d394a631b17, type: 3}
+    - {fileID: 2800000, guid: 60559cf9510aab841a66a3a5dcc2cd79, type: 3}
+    - {fileID: 2800000, guid: 6b0a7250e0454a643a5189c6c93a550d, type: 3}
+    - {fileID: 2800000, guid: 9517ee045c9750841b2806f5ca4cfa90, type: 3}
+    - {fileID: 2800000, guid: f4bab25bc65993344b7f702a7a1086ea, type: 3}
+    - {fileID: 2800000, guid: e34f0ca2fba7f764a80c33ec72930f9d, type: 3}
+    - {fileID: 2800000, guid: a633c8f42de3a444db4882ddacedd211, type: 3}
+    - {fileID: 2800000, guid: 9af3e4e719a5d844eabdfd37af48985f, type: 3}
+    - {fileID: 2800000, guid: 31936087594566d40aa59b6bb62c25c3, type: 3}
+    - {fileID: 2800000, guid: 4ffa86d88441cf744b7ab95a3b89530e, type: 3}
+    - {fileID: 2800000, guid: 30861d2fad58457439b2c7d9322481ae, type: 3}
+    totalSpriteSurfaceArea: 2769235
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6b0a7250e0454a643a5189c6c93a550d, type: 3}
+  - {fileID: 21300000, guid: cc481871f98040742843779c0b9e10ce, type: 3}
+  - {fileID: 21300000, guid: c791c2d1359550948b2c1d394a631b17, type: 3}
+  - {fileID: 21300000, guid: 31bd9ff1d2da5834d96ad5704b811a09, type: 3}
+  - {fileID: 21300000, guid: e34f0ca2fba7f764a80c33ec72930f9d, type: 3}
+  - {fileID: 21300000, guid: 7cd269b39a21777428f78325e3fafd96, type: 3}
+  - {fileID: 21300000, guid: 9517ee045c9750841b2806f5ca4cfa90, type: 3}
+  - {fileID: 21300000, guid: fea3b0948af97754382f7b359affd009, type: 3}
+  - {fileID: 21300000, guid: a633c8f42de3a444db4882ddacedd211, type: 3}
+  - {fileID: 21300000, guid: 2701c16590625ae46a0dcd0f07d441d2, type: 3}
+  - {fileID: 21300000, guid: 350552857a39f754f830fb041696a2cf, type: 3}
+  - {fileID: 21300000, guid: 47d13bb653d41d942a68883aba6cd4b5, type: 3}
+  - {fileID: 21300000, guid: 31936087594566d40aa59b6bb62c25c3, type: 3}
+  - {fileID: 21300000, guid: 9af3e4e719a5d844eabdfd37af48985f, type: 3}
+  - {fileID: 21300000, guid: 4ffa86d88441cf744b7ab95a3b89530e, type: 3}
+  - {fileID: 21300000, guid: 8eedcbf82c7684a4f83b0df27b5866b0, type: 3}
+  - {fileID: 21300000, guid: 60559cf9510aab841a66a3a5dcc2cd79, type: 3}
+  - {fileID: 21300000, guid: eedf1f5abc65918428de43d54484d436, type: 3}
+  - {fileID: 21300000, guid: f4bab25bc65993344b7f702a7a1086ea, type: 3}
+  - {fileID: 21300000, guid: e2caca1dd5cca9146acc18b88944696b, type: 3}
+  - {fileID: 21300000, guid: 30861d2fad58457439b2c7d9322481ae, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Vine_L
+  - MovingPlatform_L
+  - MovingPlatform_M
+  - Mud_L
+  - FallingPlatform_L_1
+  - Branch_2
+  - Vine_M
+  - Door_Mag
+  - FallingPlatform_L_2
+  - MudWall_L
+  - Branch_1
+  - Mud_M
+  - FallingPlatform_M_2
+  - FallingPlatform_M_1
+  - FallingPlatform_R_1
+  - MudWall_R
+  - MovingPlatform_R
+  - Branch_3
+  - Vine_R
+  - Mud_R
+  - FallingPlatform_R_2
+  m_Tag: SpriteAtlas
+  m_IsVariant: 0
